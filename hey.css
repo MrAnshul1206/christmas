@@ -1,0 +1,19 @@
+h1 {color:rgb(249, 247, 247);
+    background-color:rgba(50,45,40,0.275);
+text-align: center;
+border-color:red;}
+
+h2 {color:rgb(249, 247, 247);
+    background-color:rgba(50,45,40,0.275);
+text-align: center;
+border-color:red;}
+h3 {color:rgb(249, 247, 247);
+    background-color:rgba(50,45,40,0.275);
+text-align: center;
+border-color:red;}
+
+
+button {color:rgba(245, 243, 240, 0.979);
+    background-color: rgba(40, 36, 36, 0.211);
+}
+    body {background-image:url(https://i.pinimg.com/736x/7c/92/fb/7c92fb7164488ab92bf74328dbd1204d.jpg)}
